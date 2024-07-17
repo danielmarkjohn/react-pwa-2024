@@ -1,5 +1,5 @@
 {
-  "name": "react-pwa",
+  "name": "${{values.component_id}}",  
   "version": "1.0.0",
   "type": "module",
   "description": "Starter kit for PWA web applications",
